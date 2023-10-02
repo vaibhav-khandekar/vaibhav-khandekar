@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+     
+# 📫 How to reach me 
+   
+   - Gmail : vaibhavkhandekar69@gmail.com
+   - linkden : www.linkedin.com/in/vaibhav-khandekar
