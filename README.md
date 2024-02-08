@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 🌱 I’m currently learning Data Structures & Algorithms
+# 🌱 I’m currently learning
+   - Data Structures & Algorithms
 # 📫 How to reach me 
    
    - Gmail : vaibhavkhandekar69@gmail.com
