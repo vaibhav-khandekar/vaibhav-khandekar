@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 # 📫 How to reach me 
    
    - Gmail : vaibhavkhandekar69@gmail.com
-   - linkden : www.linkedin.com/in/vaibhav-khandekar
+   - linkden : https://www.linkedin.com/in/vaibhav-khandekar
